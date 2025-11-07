@@ -1,12 +1,10 @@
-
-
 # Project Title
 
 This project in an introduction into version control and leads you through basic git commands.
 
 ## Information about how to use your project
 
-Step-by-step instructions can be found in the Udacity Version Control Course
+Step-by-step instructions can be found in the Udacity Version Control Course.
 
 ## Credits
 
