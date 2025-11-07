@@ -17,7 +17,7 @@ This project in an introduction into version control and leads you through basic
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to Udacity for providing learning material (https://www.udacity.com/org/cariad_academy/course/version-control-with-git--ud123)
 
 ## Date created
 
