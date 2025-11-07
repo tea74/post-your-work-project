@@ -17,7 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    
 
     # get user input for month (all, january, february, ... , june)
 
@@ -25,7 +25,7 @@ def get_filters():
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
 
-    print('-'*40)
+    # print('-'*40)
     return city, month, day
 
 
@@ -40,6 +40,9 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
+    df = pd.read_csv(city)
+
+
 
 
     return df
@@ -137,3 +140,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+    
