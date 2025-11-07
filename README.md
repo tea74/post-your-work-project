@@ -6,13 +6,7 @@ This project in an introduction into version control and leads you through basic
 
 ## Information about how to use your project
 
-
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
+Step-by-step instructions can be found in the Udacity Version Control Course
 
 ## Credits
 
